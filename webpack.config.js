@@ -42,6 +42,9 @@ module.exports = {
         }, {
             test: /\.woff|.woff2|.ttf|.eot|.svg|.png|.jpg*.*$/,
             loader: 'file'
-        }]
+        },{
+            test: /\.json$/,
+            loader: 'json-loader'
+          }]
     }
 }
