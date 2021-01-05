@@ -6,7 +6,7 @@
   "author": "Robert Pearce <me@robertwpearce.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "dotenv": "^4.0.0",
     "paperplane": "^0.5.1",
     "ramda": "^0.24.1"
