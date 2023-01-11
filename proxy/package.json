@@ -8,7 +8,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "dotenv": "^4.0.0",
-    "paperplane": "^0.5.1",
+    "paperplane": "^3.1.2",
     "ramda": "^0.24.1"
   }
 }
